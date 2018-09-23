@@ -17,6 +17,7 @@ https://github.com/pages-themes/hacker/blob/master/_sass/jekyll-theme-hacker.scs
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
+  border-bottom: 0px dashed $conifer; //header;
   padding: 20px 0;
   margin: 0 0 40px 0;
 }
