@@ -3,11 +3,6 @@ layout: default
 title: VSC TV
 ---
 
-### Quick Links
-
- - [Projects](/projects.md)
- - [Streaming Schedule](https://twitch.tv/videostorecowboy/events)
-
 ### Social
 
 - instagram: [@videostorecowboy](https://instagram.com/videostorecowboy)
