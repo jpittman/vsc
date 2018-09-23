@@ -1,3 +1,8 @@
+---
+layout: default
+title: VSC TV
+---
+
 ### Quick Links
 
  - [Projects](/projects.md)
