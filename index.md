@@ -1,5 +1,3 @@
-# Video Store Cowboy
-
 ### Quick Links
 
  - [Projects](/projects.md)
