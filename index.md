@@ -3,16 +3,12 @@ layout: default
 title: VSC TV
 ---
 
-### Latest posts
+### Latest News
 
-<ul>
-  {% for post in site.posts limit:1 %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.posts limit:1 %}
+    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+    <p>{{ post.excerpt }}</p>
+{% endfor %}
 
 ### Social
 
