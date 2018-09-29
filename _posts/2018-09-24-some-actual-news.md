@@ -4,9 +4,6 @@ title:  "MOAR NEWS"
 categories: [blog, travel]
 tags: [hot, summer]
 ---
-
-<!-- ### Some real news here. -->
-
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.
 
 Integer suscipit mollis sapien, eu tristique tortor commodo sit amet. Proin ut consectetur felis, ut iaculis mi. Sed enim ligula, interdum in nisl vel, fringilla porttitor lorem. Phasellus non imperdiet dolor. Ut hendrerit bibendum lectus ut elementum. Etiam lobortis neque eu semper dapibus. Sed sed pulvinar nunc. In in dui fermentum, maximus lacus sit amet, fermentum augue. Aenean sollicitudin porttitor aliquam. Nullam ultricies semper accumsan. Cras commodo ultrices congue. Curabitur in vestibulum justo, ac pulvinar felis. Vestibulum id mi et nisi elementum pulvinar. Curabitur finibus rutrum odio eu gravida. Duis felis dui, lobortis ac nunc et, viverra iaculis lorem. Praesent porttitor erat non ex ultricies, id ornare nunc tempor.
