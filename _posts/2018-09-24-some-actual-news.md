@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "MOAR NEWS"
+categories: [blog, travel]
+tags: [hot, summer]
 ---
 
-# Some real news here.
+<!-- ### Some real news here. -->
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.
 
