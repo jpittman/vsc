@@ -1,7 +1,7 @@
 {% for item in site.data.blades %}
 <h3>{{ item.description }}</h3>
   {% for entry in item.choices %}
-  <h4>{{ entry.name }}</h4>
+  <h4><a href="https://streamlabs.com/videostorecowboy?amount={{item.value}}&message={{entry.name}}">{{ entry.name }}</a></h4>
   <p>{{ entry.description }}</p>
   {% endfor %}
 {% endfor %}
