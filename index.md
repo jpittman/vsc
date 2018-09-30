@@ -5,16 +5,15 @@ title: VSC TV
 
 ### Latest News
 
-{% for post in site.posts limit:1 %}
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
-<p>{{ post.excerpt }}</p>
-{% endfor %}
+{% include latest_news.html %}
 
-### What's All This About Then?
+### What's All This Then?
 
-Want to know more about what this is all about? Check it out [here](/about.html).
+Want to know more about what all this is? Check it out [here](/about.html).
 
-Have an idea? Want to suggest a game or project? Let us know here: [https://ideas.videostorecowboy.com](https://ideas.videostorecowboy.com)
+Have an idea? Want to suggest a game or project? Go ahead and add a [suggestion](https://ideas.videostorecowboy.com)
+
+Need more direct contact? Email us at inquiry [at] videostorecowboy [dot] com.
 
 ### Social
 
