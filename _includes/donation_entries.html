@@ -1,0 +1,7 @@
+{% for item in site.data.blades limit:1 %}
+<h3>{{ item.description }}</h3>
+  {% for entry in item.choices %}
+  <p>{{ entry.name }}</p>
+  <p>{{ entry.description }}</p>
+  {% endfor %}
+{% endfor %}
