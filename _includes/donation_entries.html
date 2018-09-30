@@ -1,7 +1,7 @@
 {% for item in site.data.blades %}
 <h3>{{ item.description }}</h3>
   {% for entry in item.choices %}
-  <p>{{ entry.name }}</p>
+  <h4>{{ entry.name }}</h4>
   <p>{{ entry.description }}</p>
   {% endfor %}
 {% endfor %}
