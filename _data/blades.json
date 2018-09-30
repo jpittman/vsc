@@ -1,0 +1,47 @@
+[
+  {
+    "value": 1,
+    "description": "$1 / 125 Bits Donation",
+    "bits": 125,
+    "choices": [
+      {
+        "name": "A Change of Circumstance",
+        "description": "PC of your choice gains or loses Position or Effect."
+      },
+      {
+        "name": "A Taste of Indulgence",
+        "description": "PC of your choice instantly relieves 2 stress."
+      }
+    ]
+  },
+  {
+    "value": 5,
+    "description": "$5 / 750 Bits Donation",
+    "bits": 750,
+    "choices": [
+      {
+        "name": "Fortune Favors the Bold",
+        "description": "PC of your choice gains a critical success or failure."
+      },
+      {
+        "name": "A Taste of Indulgence 2",
+        "description": "PC of your choice instantly relieves 4 Stress or reduces the level of Harm."
+      }
+    ]
+  },
+  {
+    "value": 10,
+    "description": "$10 / 1250 Bits Donation",
+    "bits": 1250,
+    "choices": [
+      {
+        "name": "Gluttonous Indulgence",
+        "description": "PC of your choice instantly relieves ALL Stress or reduces ALL levels of Harm."
+      },
+      {
+        "name": "A Twist of Fate",
+        "description": "Introduce an element that changes the outcome of a Score.(GM’ s discretion)"
+      }
+    ]
+  }
+]
