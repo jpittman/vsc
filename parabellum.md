@@ -3,4 +3,4 @@ layout: default
 show: parabellum
 ---
 
-{% include show.html show=show %}
+{% include show.html show=page.show %}
