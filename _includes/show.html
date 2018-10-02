@@ -1,7 +1,7 @@
 
-<!-- here -->
 {% for entry in site.data.shows %}
-  {% if entry == include.show %}
+<!-- {{ entry.title }} -->
+  {% if entry == include.title %}
 <h3 href="{{ entry.url }}">{{ entry.title }}</a></h3>
 <p>
   {{ entry.day }}<br/>
