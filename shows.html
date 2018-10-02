@@ -6,6 +6,10 @@ title: shows
 <h3>Shows</h3>
 
 {% for show in site.data.shows %}
-<p><a href="{{ show.url }}">{{ show.title }}</a></p>
+<p>
+  <a href="{{ show.url }}">{{ show.title }}</a><br/>
+  {{ show.day }}<br/>
+  {{ show.start}} - {{ show.end }}
+</p>
 <p>{{ show.description }}</p>
 {% endfor %}
