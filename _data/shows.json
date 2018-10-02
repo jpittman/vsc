@@ -1,0 +1,69 @@
+[
+  {
+    "day": "sunday",
+    "shows": []
+  },
+  {
+    "day": "monday",
+    "shows": [
+      {
+        "title": "Parabellum",
+        "description": "A long description.",
+        "start": "18:30",
+        "end": "22:30",
+        "status":"current",
+        "url":"",
+        "cast": [
+          {
+            "name": "Sam Rawls",
+            "bio": "Sam is a Cosplayer and Variety Streamer.",
+            "twitter": "harleysarmory",
+            "twitch": "harleysarmory",
+            "image": ""
+          },
+          {
+            "name": "Sam Rawls",
+            "bio": "Sam is a Cosplayer and Variety Streamer.",
+            "twitter": "harleysarmory",
+            "twitch": "harleysarmory",
+            "image": ""
+          },
+          {
+            "name": "Sam Rawls",
+            "bio": "Sam is a Cosplayer and Variety Streamer.",
+            "twitter": "harleysarmory",
+            "twitch": "harleysarmory",
+            "image": ""
+          },
+          {
+            "name": "Sam Rawls",
+            "bio": "Sam is a Cosplayer and Variety Streamer.",
+            "twitter": "harleysarmory",
+            "twitch": "harleysarmory",
+            "image": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "day": "tuesday",
+    "shows": []
+  },
+  {
+    "day": "wednesday",
+    "shows": []
+  },
+  {
+    "day": "thursday",
+    "shows": []
+  },
+  {
+    "day": "friday",
+    "shows": []
+  },
+  {
+    "day": "saturday",
+    "shows": []
+  }
+]

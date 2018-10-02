@@ -1,0 +1,11 @@
+---
+layout: default
+title: shows
+---
+
+<h3>Shows</h3>
+
+{% for show in site.data.shows %}
+<p><a href="{{ show.url }}">{{ show.title }}</a></p>
+<p>{{ show description }}</p>
+{% endfor %}
