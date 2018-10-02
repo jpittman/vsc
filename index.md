@@ -7,13 +7,9 @@ title: VSC TV
 
 {% include latest_news.html %}
 
-### What's All This Then?
-
-Want to know more about what all this is? Check it out [here](/about.html).
+### Suggestions
 
 Have an idea? Want to suggest a game or project? Go ahead and add a [suggestion](https://ideas.videostorecowboy.com)
-
-Need more direct contact? Email us at inquiry [at] videostorecowboy [dot] com.
 
 ### Social
 
@@ -24,3 +20,7 @@ Need more direct contact? Email us at inquiry [at] videostorecowboy [dot] com.
 - twitch: [twitch.tv/videostorecowboy](https://twitch.tv/videostorecowboy)
 - twitter: [@vidstorecowboy](https://twitter.com/vidstorecowboy)
 - youtube: [youtube.com/videostorecowboy](https://www.youtube.com/channel/UCbt-ENZEzvr6ui-sNb3f2UA)
+
+### Contact
+
+Need more direct contact? Email us at inquiry [at] videostorecowboy [dot] com.
