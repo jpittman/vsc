@@ -1,14 +1,14 @@
 {% for entry in site.data.shows %}
-  {% if entry == show %}
-<h3 href="{{ show.url }}">{{ show.title }}</a></h3>
+  {% if entry == include.show %}
+<h3 href="{{ entry.url }}">{{ entry.title }}</a></h3>
 <p>
-  {{ show.day }}<br/>
-  {{ show.start}} - {{ show.end }}
+  {{ entry.day }}<br/>
+  {{ entry.start}} - {{ entry.end }}
 </p>
-<p>{{ show.description }}</p>
+<p>{{ entry.description }}</p>
 
 <h4>Cast</h4>
-{% for member in show.cast %}
+{% for member in entry.cast %}
 <p>{{ member.name }}<br/>
   {{ member.bio }}<br/>
   twitch: {{ member.twitch }}<br/>
