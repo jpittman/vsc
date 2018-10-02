@@ -1,0 +1,27 @@
+---
+layout: default
+show: parabellum
+---
+
+{% for entry in site.data.shows %}
+  {% if entry == show %}
+<h3 href="{{ show.url }}">{{ show.title }}</a></h3>
+<p>
+  {{ show.day }}<br/>
+  {{ show.start}} - {{ show.end }}
+</p>
+<p>{{ show.description }}</p>
+
+<h4>Cast</h4>
+{% for member in show.cast %}
+<p>{{ member.name }}<br/>
+  {{ member.bio }}<br/>
+  twitch: {{ member.twitch }}<br/>
+  twitter: {{ member.twitter }}
+</p>
+{% endfor %}
+
+{% break %}
+
+{% endif %}
+{% endfor %}
