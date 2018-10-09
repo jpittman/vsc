@@ -1,5 +1,6 @@
-This is a simple breakdown of the audio setup defaults for streaming in both XSplit and OBS. It's based upon this [video](https://www.youtube.com/watch?v=EdAhR_CdjLc).
+# Desktop Audio Setup
 
+This is a simple breakdown of the audio setup defaults for streaming in both XSplit and OBS. It's based upon this [video](https://www.youtube.com/watch?v=EdAhR_CdjLc).
 
 ### Windows Audio Settings
 
