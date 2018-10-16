@@ -6,7 +6,7 @@ tags: [site, content]
 ---
 
 Being content creators for tabletop rpgs, we often have more ideas than we care to admit. There are pages and pages of notes in various forms (electronic or physical) that outline or detail an idea for a project that may never actually see the light of day. It's a known part of the experience for any creative.
-s
+
 An even bigger part of this experience though are the suggestions we get from folks. It comes in various forms of communication (verbal, social media, discord and even email) and usually involves them asking us to play their favorite game or something new that has launched on kickstarter. When those come in, it's harder to manage because the details might get lost in the mix of acknowledging them.
 
 # Ideas
