@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ideas"
+title:  "Have An Idea?"
 categories: [meta, travel]
 tags: [site, content]
 ---
