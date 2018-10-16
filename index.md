@@ -7,9 +7,9 @@ title: VSC TV
 
 {% include latest_news.html %}
 
-### Suggestions
+### Have An Idea For Us?
 
-Have an idea? Want to suggest a game or project? Go ahead and add a [suggestion](https://ideas.videostorecowboy.com).
+Have an idea? Want to suggest a game or project? Go ahead and add it [here](https://ideas.videostorecowboy.com).
 
 ### Social
 
