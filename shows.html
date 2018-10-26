@@ -5,6 +5,7 @@ title: shows
 
 <h3>Shows</h3>
 
+{% comment %}
 {% for show in site.data.shows %}
 <p>
   <a href="{{ show.url }}">{{ show.title }}</a><br/>
@@ -13,3 +14,10 @@ title: shows
 </p>
 <p>{{ show.description }}</p>
 {% endfor %}
+{% endcomment %}
+
+<p>
+  We currently have planned shows in the works, but nothing is
+  announced yet. Follow us on twitter to catch the latest
+  announcements when new shows are coming.
+</p>
