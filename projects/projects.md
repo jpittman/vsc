@@ -7,7 +7,7 @@ title: Projects
 
 ### Latest Project
 
-- [Aurors](/projects/aurors/aurors.md) - A One Page RPG for playing a rules light game in the Wizarding World setting.
+- [Aurors](/projects/aurors/aurors.html) - A One Page RPG for playing a rules light game in the Wizarding World setting.
 
 {% comment %}
 - [Ready Player One](/downloads/RP1.pdf)
