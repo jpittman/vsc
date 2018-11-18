@@ -3,11 +3,11 @@ layout: default
 title: Projects
 ---
 
-### Projects.
+## Projects
 
 ### Latest Project
 
-- [Aurors](/projects/aurors.md)
+- [Aurors](/projects/aurors.md) - A One Page RPG for playing a rules light game in the Wizarding World setting.
 
 {% comment %}
 - [Ready Player One](/downloads/RP1.pdf)
