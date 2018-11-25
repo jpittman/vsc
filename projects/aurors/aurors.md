@@ -14,7 +14,7 @@ Aurors is a one page rpg based upon the mechanics of Blades in the Dark. It atte
 {% for post in site.posts limit %}
   {% if post.tags contains "aurors" %}
 
-<p><a href="{{ post.url }}">{{ post.title }}</a></p>
+ - [{{ post.title }}]({{ post.url }})
 
   {% endif %}
 {% endfor %}
