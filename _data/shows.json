@@ -1,12 +1,12 @@
 [
   {
-    "title": "parabellum",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.",
-    "start": "18:30",
-    "end": "22:30",
-    "day":"monday",
+    "title": "The Seekers",
+    "description": "The Seekers is a tabletop rpg show based in the world of the game Horizon Zero Dawn. It takes place after the game’s storyline has ended and focuses on Aloy’s Legacy on the world. The game will use Cypher System Rules by Monte Cooke Games, with new rules specifically written for the game.",
+    "start": "17:00",
+    "end": "19:00",
+    "day":"tuesday",
     "current": true,
-    "url": "/shows/parabellum.html",
+    "url": "/shows/seekers.html",
     "cast": [
       {
         "name": "Sam Rawls",
