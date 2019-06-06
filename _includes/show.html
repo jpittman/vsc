@@ -9,17 +9,17 @@
 </p>
 <p>{{ entry.description }}</p>
 
+    {% if entry.cast.length >= 1 %}
 <h4>Cast</h4>
-{% for member in entry.cast %}
+      {% for member in entry.cast %}
 <h5>{{ member.name }}</h5>
 <p>
   {{ member.bio }}<br/>
   twitch: {{ member.twitch }}<br/>
   twitter: {{ member.twitter }}
 </p>
-{% endfor %}
-
-{% break %}
-
-{% endif %}
+      {% endfor %}
+    {% endif %}
+  {% break %}
+  {% endif %}
 {% endfor %}
