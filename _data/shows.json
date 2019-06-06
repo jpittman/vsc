@@ -5,8 +5,8 @@
     "start": "18:30",
     "end": "22:30",
     "day":"monday",
-    "status": "current",
-    "url": "/parabellum.html",
+    "current": true,
+    "url": "/shows/parabellum.html",
     "cast": [
       {
         "name": "Sam Rawls",
@@ -44,7 +44,7 @@
     "start": "18:30",
     "end": "22:30",
     "day":"monday",
-    "status": "tuesday",
+    "current": true,
     "url": "",
     "cast": [
       {
@@ -83,7 +83,7 @@
     "start": "18:30",
     "end": "22:30",
     "day":"thursday",
-    "status": "current",
+    "current": true,
     "url": "",
     "cast": [
       {
