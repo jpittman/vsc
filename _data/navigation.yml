@@ -6,6 +6,8 @@
   link: /shows.html
 - name: Projects
   link: /projects/projects.html
+- name: Essays
+  link: /projects/essays.html
 # - name: Schedule
 #   link: /schedule.html
 # - name: Suggestions
