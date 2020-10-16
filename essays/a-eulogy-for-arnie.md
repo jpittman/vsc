@@ -75,3 +75,7 @@ In no particular order… Sir Poopsalot. Arnito Burrito. Doctor Von Poopenstein.
 ...
 
 Good bye Arnie.
+
+---
+
+_This appeared as a facebook post on October 13, 2020. It included pictures that I hope to get sorted into this essay._
