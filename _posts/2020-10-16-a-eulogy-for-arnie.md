@@ -5,7 +5,7 @@ categories: [personal]
 tags: [death, loss, animals, friendship]
 ---
 
-<p dir="rtl">*“Legacy. What is a legacy?<br/>
+<p style="text-align:right;">*“Legacy. What is a legacy?<br/>
 It’s planting seeds in a garden you never get to see.<br/>
 I wrote some notes at the beginning of a song someone will sing for me.“*<br/>
 **― Lin-Manuel Miranda, Hamilton: The Revolution**</p>
