@@ -9,9 +9,17 @@ These are the links appropriate to the 28 days project for February 2021.
 
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
+### Day 23 - Hate Crimes Against Asian Americans
+
+- [Hate Crimes Against Asian Americans Continue to Rise | The Daily Social Distancing Show](https://www.youtube.com/watch?v=L9hJed6P4Hk)
+- [Stop AAPI Hate](httos://stopaapihate.org)
+- [Compassion In Oakland](https://compassioninoakland.org)
+- [Asian Americans Advancing Justice | AAJC](https://www.advancingjustice-aajc.org)
+- [Chinese for Affirmative Action](https://caasf.org)
+
 ### Day 22 - Building a Safe Space
 
-- [Safe Sapces in Social Media](https://everydayfeminism.com/2017/10/safe-spaces-on-social-media/)
+- [Safe Spaces in Social Media](https://everydayfeminism.com/2017/10/safe-spaces-on-social-media/)
 - [3 Ways to be a Better Ally in the Workplace - Melinda Epler - Ted Talk](https://www.youtube.com/watch?v=k12j-E1LsUU)
 - [Creating a Safe Space](https://werise-toolkit.org/en/system/tdf/pdf/tools/creating-a-safe-space.pdf?file=1&force=)
 - [Five Key Aspects Of Creating Safe Spaces Online](https://www.forbes.com/sites/forbescoachescouncil/2020/09/04/five-key-aspects-of-creating-safe-spaces-online/?sh=6aba7106a5fb)
