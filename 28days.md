@@ -9,11 +9,12 @@ These are the links appropriate to the 28 days project for February 2021.
 
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
-### Day 4 - Community Moderation
+### Day 24 - Community Moderation
 
 - [Setting Up Community Moderation Guidelines](https://www.getopensocial.com/blog/community-management/setting-community-moderation-guidelines)
 - [5 Tips for More Effective Community Moderation](https://www.socialmediatoday.com/social-business/5-tips-more-effective-community-moderation)
 - [Steamworks Community Moderation Documentation](https://partner.steamgames.com/doc/marketing/community_moderation)
+- [7 Best Practices for Online Community Moderation](https://www.higherlogic.com/blog/community-moderation-best-practices/)
 
 ### Day 23 - Hate Crimes Against Asian Americans
 
