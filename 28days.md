@@ -9,6 +9,12 @@ These are the links appropriate to the 28 days project for February 2021.
 
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
+### Day 4 - Community Moderation
+
+- [Setting Up Community Moderation Guidelines](https://www.getopensocial.com/blog/community-management/setting-community-moderation-guidelines)
+- [5 Tips for More Effective Community Moderation](https://www.socialmediatoday.com/social-business/5-tips-more-effective-community-moderation)
+- [Steamworks Community Moderation Documentation](https://partner.steamgames.com/doc/marketing/community_moderation)
+
 ### Day 23 - Hate Crimes Against Asian Americans
 
 - [Hate Crimes Against Asian Americans Continue to Rise | The Daily Social Distancing Show](https://www.youtube.com/watch?v=L9hJed6P4Hk)
@@ -23,6 +29,7 @@ These are the links appropriate to the 28 days project for February 2021.
 - [3 Ways to be a Better Ally in the Workplace - Melinda Epler - Ted Talk](https://www.youtube.com/watch?v=k12j-E1LsUU)
 - [Creating a Safe Space](https://werise-toolkit.org/en/system/tdf/pdf/tools/creating-a-safe-space.pdf?file=1&force=)
 - [Five Key Aspects Of Creating Safe Spaces Online](https://www.forbes.com/sites/forbescoachescouncil/2020/09/04/five-key-aspects-of-creating-safe-spaces-online/?sh=6aba7106a5fb)
+- [The Gauntlet's Community Code of Conduct](https://www.gauntlet-rpg.com/community-code-of-conduct.html)
 
 ### Day 21 - Changes Coming to the Channel & Community
 
