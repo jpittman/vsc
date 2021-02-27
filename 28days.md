@@ -9,6 +9,10 @@ These are the links appropriate to the 28 days project for February 2021.
 
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
+### Day 25 - Self Care
+
+Due to circumstances, the content for this day had to be moved to the next day. The content that was shown was an acknowledgement of self care.
+
 ### Day 24 - Community Moderation
 
 - [Setting Up Community Moderation Guidelines](https://www.getopensocial.com/blog/community-management/setting-community-moderation-guidelines)
