@@ -9,6 +9,12 @@ These are the links appropriate to the 28 days project for February 2021.
 
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
+### Day 26 - Abuse Policy and Reporting
+
+- [Pew Research: Online Harassment 2017](https://www.pewresearch.org/internet/2017/07/11/online-harassment-2017/)
+- [Online Harassment Field Manual](https://onlineharassmentfieldmanual.pen.org/reporting-online-harassment-to-platforms/)
+- [Twitch Community Guidelines: Harassment](https://www.twitch.tv/p/en/legal/community-guidelines/harassment/)
+
 ### Day 25 - Self Care
 
 Due to circumstances, the content for this day had to be moved to the next day. The content that was shown was an acknowledgement of self care.
@@ -22,10 +28,10 @@ Due to circumstances, the content for this day had to be moved to the next day. 
 
 ### Day 23 - Hate Crimes Against Asian Americans
 
-- [Hate Crimes Against Asian Americans Continue to Rise | The Daily Social Distancing Show](https://www.youtube.com/watch?v=L9hJed6P4Hk)
+- [Hate Crimes Against Asian Americans Continue to Rise](The Daily Social Distancing Show](https://www.youtube.com/watch?v=L9hJed6P4Hk)
 - [Stop AAPI Hate](httos://stopaapihate.org)
 - [Compassion In Oakland](https://compassioninoakland.org)
-- [Asian Americans Advancing Justice | AAJC](https://www.advancingjustice-aajc.org)
+- [Asian Americans Advancing Justice](https://www.advancingjustice-aajc.org)
 - [Chinese for Affirmative Action](https://caasf.org)
 
 ### Day 22 - Building a Safe Space
