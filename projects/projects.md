@@ -5,9 +5,9 @@ title: Projects
 
 ## Projects
 
-- [Accountability](/accountability.html) - A Work In Progress.
-
 ### Latest Project
+
+- [Accountability](/accountability.html) - A Work In Progress.
 
 {% comment %}
 - [Ready Player One](/downloads/RP1.pdf)
