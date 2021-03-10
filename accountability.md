@@ -13,7 +13,7 @@ This exists because I was called out for harassment in July, 2020. It's here so 
 
 ## February 2021
 
- * [28 Days: A Work in Progress](28days.html)
+ * [28 Days: A Work in Progress](/28days.html)
  * 28 Days Playlist
 
 ## March 2021
