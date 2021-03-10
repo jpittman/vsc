@@ -5,7 +5,7 @@ title: Accountability
 
 # Accountability
 
-This exists because I was called out for harassment in July, 2020. It's here so I can acknowledge the behavior and address the steps I'm taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
+This exists because I was called out for harassment in July, 2020. It's here so I can address the behavior and acknowledge the steps I'm taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
 
 ## July 2020
 
