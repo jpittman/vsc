@@ -7,6 +7,10 @@ title: 28 Days: A Work in Progress
 
 These are the links appropriate to the 28 days project for February 2021.
 
+#### 28 Days Playlist
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8HiytcIQ7lf5fj4sCw-FfQrx4F_DXS-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over.***
 
 ### Day 16 - Accessibility
