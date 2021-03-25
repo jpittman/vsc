@@ -5,9 +5,11 @@ title: Accountability
 
 # Accountability
 
-In July of 2020, I was publicly addressed for my behavior on Twitter. My behavior was identified as harassment by the person who experienced it. The display of my behavior was on a streamed Twitch TTRPG show in March of 2018.  In the time since July 2020, I have been working on understanding the impact my behavior had and how I can do better.
+In July of 2020, I was publicly addressed for my behavior on a streamed Twitch TTRPG show. The behavior dates back to March of 2018 and the person who addressed me labeled my behavior as harassment. At the time, I made a public apology and mostly stepped back from the TTRPG community on Twitter and Twitch.
 
-This page is one part of my work towards accountability. It's here so I can address my behavior and acknowledge the steps I'm taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
+In that time since July 2020, I have been working on understanding the impact my behavior had and how I can do better.
+
+This page is one part of my work towards accountability. It’s here so I can address my behavior and acknowledge the steps I’m taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
 
 ## July 2020
 
