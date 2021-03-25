@@ -17,6 +17,6 @@ This page is one part of my work towards accountability. It’s here so I can ad
 
 ## February 2021
 
- * [28 Days: A Work in Progress](/28days.html)
+ * [28 Days: A Work in Progress](/projects/accountability/28days.html)
 
 ## March 2021
