@@ -16,7 +16,6 @@ title: Projects
 
 {% endcomment %}
 
-
 ### Current Projects
 
 - [28 Days](/28days.html) - A Work In Progress.
