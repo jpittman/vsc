@@ -5,7 +5,9 @@ title: Accountability
 
 # Accountability
 
-This exists because I was called out for harassment in July, 2020. It's here so I can address the behavior and acknowledge the steps I'm taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
+In July of 2020, I was publicly addressed for my behavior on Twitter. My behavior was identified as harassment by the person who experienced it. The display of my behavior was on a streamed Twitch TTRPG show in March of 2018.  In the time since July 2020, I have been working on understanding the impact my behavior had and how I can do better.
+
+This page is one part of my work towards accountability. It's here so I can address my behavior and acknowledge the steps I'm taking to make things better. It is a work in progress. While the layout may change, it will maintain the content. If you have any comments, questions or concerns, please contact me so that I can address them appropriately.
 
 ## July 2020
 
