@@ -18,6 +18,6 @@ This page is one part of my work towards accountability. It's here so I can addr
  * [28 Days: A Work in Progress](/28days.html)
  * 28 Days Playlist
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/Dn3svhk-QNA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8HiytcIQ7lf5fj4sCw-FfQrx4F_DXS-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## March 2021
