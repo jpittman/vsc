@@ -21,4 +21,4 @@ This page is one part of my work towards accountability. It’s here so I can ad
 
 ## April 2021
 
- * [On the Subject of Accountability] (/personal/accountability/2021/04/02/on-the-subject-of-accountability.html)
+ * [On the Subject of Accountability](/personal/accountability/2021/04/02/on-the-subject-of-accountability.html)
