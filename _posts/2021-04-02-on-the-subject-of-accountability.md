@@ -5,9 +5,6 @@ categories: [personal, accountability]
 tags: [mental health]
 ---
 
-
-
-
 > We have known for decades that we can’t just arrest and prosecute our
 > way to safer communities. We need to do more. We need a movement that
 > will encourage anyone who has caused the harm to take responsibility
