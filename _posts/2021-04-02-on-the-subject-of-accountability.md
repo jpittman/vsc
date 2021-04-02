@@ -29,6 +29,6 @@ Recently though, the pieces finally clicked into place and the answer was obviou
 
 So that's what I'm doing.
 
-In February of 2021, I did the [28 Days](https://videostorecowboy.com/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides. That effort has led to me doing a lot of writing about my experiences in trying to figure this out. The [Accountability](https://videostorecowboy.com/projects/accountability/accountability.html) project is the next phase of this experience. It's a way to track the things I'm doing so that I know where I've been in this process.
+In February of 2021, I did the [28 Days](/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides. That effort has led to me doing a lot of writing about my experiences in trying to figure this out. The [Accountability](/projects/accountability/accountability.html) project is the next phase of this experience. It's a way to track the things I'm doing so that I know where I've been in this process.
 
 It’s time to get back to work. I hope you’ll join me.
