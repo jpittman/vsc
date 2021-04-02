@@ -5,6 +5,7 @@ categories: [personal, accountability]
 tags: [mental health]
 ---
 
+
 > We have known for decades that we can’t just arrest and prosecute our
 > way to safer communities. We need to do more. We need a movement that
 > will encourage anyone who has caused the harm to take responsibility
@@ -14,7 +15,7 @@ tags: [mental health]
 >From [Accountability and Responsibility in the #metoo Era](https://voicemalemagazine.org/accountability-and-responsibility-in-the-metoo-era/_)
 > By Joan Tabachnick and Cordelia Anderson
 
-In July of 2020, I was publicly addressed for harassment on Twitter. The circumstances took place in March of 2018 during a Twitch TTRPG show.  When I was addressed, I made a public apology and mostly stepped back from the TTRPG community on Twitter and Twitch.
+In July of 2020, I was publicly addressed for harassment on Twitter. The circumstances took place in March of 2018 during a Twitch TTRPG show.  When I was addressed, I made a [public apology](https://twitter.com/vidstorecowboy/status/1280064079353180160) and mostly stepped back from the TTRPG community on Twitter and Twitch.
 
 Since then, I've been thinking a lot about Accountability. Specifically, personal accountability and reconciliation. In the 9 months that have past, I've done a lot of research and reading. I was trying to find the answer to a simple question: What can I do to make it right?
 
@@ -26,6 +27,8 @@ Recently though, the pieces finally clicked into place and the answer was obviou
 
 ***Nothing. I don't get the chance to make things right. I don't get a choice. Instead, I just need to do better, to be accountable, and hope that others will put their trust me again.***
 
-So that's what I'm doing. In February of 2021, I did the 28 Days project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides. That effort has led to me doing a lot of writing about my experiences in trying to figure this out. The accountability project is the next phase of this experience. It's a way to track the things I'm doing so that I know where I've been in this process.
+So that's what I'm doing.
+
+In February of 2021, I did the [28 Days](https://videostorecowboy.com/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides. That effort has led to me doing a lot of writing about my experiences in trying to figure this out. The [Accountability](https://videostorecowboy.com/projects/accountability/accountability.html) project is the next phase of this experience. It's a way to track the things I'm doing so that I know where I've been in this process.
 
 It’s time to get back to work. I hope you’ll join me.
