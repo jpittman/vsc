@@ -16,7 +16,7 @@ tags: [mental health]
 
 In July of 2020, I was publicly addressed for harassment on Twitter. The circumstances took place in March of 2018 during a Twitch TTRPG show.  When I was addressed, I made a [public apology](https://twitter.com/vidstorecowboy/status/1280064079353180160) and mostly stepped back from the TTRPG community on Twitter and Twitch.
 
-Since then, I've been thinking a lot about Accountability. Specifically, personal accountability and reconciliation. In the 9 months that have past, I've done a lot of research and reading. I was trying to find the answer to a simple question: What can I do to make it right?
+Since then, I've been thinking a lot about Accountability. Specifically, personal accountability and reconciliation. In the 9 months that have passed, I've done a lot of research and reading. I was trying to find the answer to a simple question: What can I do to make it right?
 
 Only... it's not a simple question. The more I read, the more complicated the answers I was finding became.  Accountability means different things to different people. Victims have every right to publicly address their abuser and they also have every right not to face their abuser to facilitate any form of reconciliation. Abusers are supposed to make amends but there is no clear guidance on the matter. Concepts like restorative justice exist to address this type of matter, but require a process that involves both the abused and the abuser. It was a mess.
 
@@ -25,7 +25,7 @@ Recently though, the pieces finally clicked into place and the answer was obviou
 ***What can I do to make it right?***
 
 ***Nothing. I can do nothing to make it right. I don't get the chance to. And I don't get a choice.
-Instead, I just need to do better, to be accountable, and hope that others will put their trust me again.***
+Instead, I just need to do better, to be accountable, and hope that others will put their trust in me again.***
 
 So that's what I'm doing.
 
