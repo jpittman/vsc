@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "On The Subject of Accountability"
+title:  "On the Subject of Accountability"
 categories: [personal, accountability]
 tags: [mental health]
 ---
+
 
 
 > We have known for decades that we can’t just arrest and prosecute our
@@ -19,16 +20,17 @@ In July of 2020, I was publicly addressed for harassment on Twitter. The circums
 
 Since then, I've been thinking a lot about Accountability. Specifically, personal accountability and reconciliation. In the 9 months that have past, I've done a lot of research and reading. I was trying to find the answer to a simple question: What can I do to make it right?
 
-Only... it's not a simple question. The more I read, the more complicated the answers I was finding became.  Accountability means different things to different people. Victims have every right to publicly address their abuser and they also have every right not to face their abuser to facilitate any form of reconciliation. Abusers are supposed to make amends but there didn't appear to be any clear common sense guidance on the matter. Concepts like restorative justice exist to address this type of matter, but require a process that involves both the abused and the abuser. It was a mess.
+Only... it's not a simple question. The more I read, the more complicated the answers I was finding became.  Accountability means different things to different people. Victims have every right to publicly address their abuser and they also have every right not to face their abuser to facilitate any form of reconciliation. Abusers are supposed to make amends but there is no clear guidance on the matter. Concepts like restorative justice exist to address this type of matter, but require a process that involves both the abused and the abuser. It was a mess.
 
 Recently though, the pieces finally clicked into place and the answer was obvious. And it was pretty simple. It just wasn't the answer I was looking for:
 
 ***What can I do to make it right?***
 
-***Nothing. I don't get the chance to make things right. I don't get a choice. Instead, I just need to do better, to be accountable, and hope that others will put their trust me again.***
+***Nothing. I can do nothing to make it right. I don't get the chance to. And I don't get a choice.
+Instead, I just need to do better, to be accountable, and hope that others will put their trust me again.***
 
 So that's what I'm doing.
 
-In February of 2021, I did the [28 Days](/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides. That effort has led to me doing a lot of writing about my experiences in trying to figure this out. The [Accountability](/projects/accountability/accountability.html) project is the next phase of this experience. It's a way to track the things I'm doing so that I know where I've been in this process.
+In February of 2021, I did the [28 Days](https://videostorecowboy.com/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides on Twitch. That effort has led me to do a lot of writing about my experiences in trying to figure this out. The [Accountability](https://videostorecowboy.com/projects/accountability/accountability.html) project is the next phase of this process. It's a way to track the things I'm doing so that I know where I've been in this process.
 
 It’s time to get back to work. I hope you’ll join me.
