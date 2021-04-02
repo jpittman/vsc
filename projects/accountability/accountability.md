@@ -5,7 +5,7 @@ title: Accountability
 
 # Accountability
 
-In July of 2020, I was publicly addressed for my behavior on a streamed Twitch TTRPG show. The behavior dates back to March of 2018 and the person who addressed me labeled my behavior as harassment. At the time, I made a public apology and mostly stepped back from the TTRPG community on Twitter and Twitch.
+In July of 2020, I was publicly addressed for harassment on Twitter. The circumstances took place in March of 2018 during a Twitch TTRPG show.  When I was addressed, I made a [public apology](https://twitter.com/vidstorecowboy/status/1280064079353180160) and mostly stepped back from the TTRPG community on Twitter and Twitch.
 
 In that time since July 2020, I have been working on understanding the impact my behavior had and how I can do better.
 
