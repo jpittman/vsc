@@ -7,7 +7,7 @@
     "start": "17:00",
     "end": "19:00",
     "day":"tuesday",
-    "current": true,
+    "current": false,
     "url": "/shows/seekers.html",
     "cast": [
       {
@@ -46,7 +46,7 @@
     "start": "18:30",
     "end": "22:30",
     "day":"monday",
-    "current": true,
+    "current": false,
     "url": "",
     "cast": [
       {
@@ -85,7 +85,7 @@
     "start": "18:30",
     "end": "22:30",
     "day":"thursday",
-    "current": true,
+    "current": false,
     "url": "",
     "cast": [
       {
