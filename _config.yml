@@ -1,4 +1,4 @@
 ---
-permalink: /posts/:year/:month/:day/:title:output_ext
 google_analytics: UA-21122253-8
+permalink: /posts/:year/:month/:day/:title:output_ext
 theme: jekyll-theme-dinky
