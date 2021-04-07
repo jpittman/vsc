@@ -7,24 +7,25 @@ title: shows
 
 <h4>Current</h4>
 
+{% assign current = false %}
 {% for show in site.data.shows %}
-  {% assign current = show.current %}
-  {% if current == true %}
+  {% if show.current == true %}
+    {% assign current = show.current %}
 <p>
   <a href="{{ show.url }}">{{ show.title }}</a><br/>
   {{ show.day }}<br/>
   {{ show.start}} - {{ show.end }}
 </p>
 <p>{{ show.description }}</p>
-  {% endif %}
-
-  {% if forloop.last == true %}
-   {% if current == false %}
+  {% else %}
+    {% if forloop.last == true %}
+     {% if current == false %}
 <p>
   We currently have planned shows in the works, but nothing is
   announced yet. Follow us on twitter to catch the latest
   announcements when new shows are coming.
 </p>
+      {% endif %}
     {% endif %}
   {% endif %}
 {% endfor %}
