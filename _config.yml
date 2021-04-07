@@ -1,4 +1,3 @@
-remote_theme: zerostaticthemes/jekyll-serif-theme
+remote_theme: wowthemesnet/mediumish-theme-jekyll
 google_analytics: UA-21122253-8
 permalink: /posts/:year/:month/:day/:title:output_ext
-baseurl: /
