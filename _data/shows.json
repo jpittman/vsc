@@ -7,7 +7,7 @@
     "start": "17:00",
     "end": "19:00",
     "day":"tuesday",
-    "current": true,
+    "current": false,
     "url": "/shows/seekers.html",
     "cast": [
       {
@@ -34,84 +34,6 @@
       {
         "name": "Sam Rawls",
         "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      }
-    ]
-  },
-  {
-    "title": "saga",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.",
-    "start": "18:30",
-    "end": "22:30",
-    "day":"monday",
-    "current": false,
-    "url": "",
-    "cast": [
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      }
-    ]
-  },
-  {
-    "title": "fly casual",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam maximus in quam lacinia ultricies. Suspendisse ornare purus eget metus imperdiet malesuada. Aliquam erat volutpat. Vestibulum porta aliquam arcu vel ornare. Donec eu sodales leo. Fusce auctor libero sit amet hendrerit lobortis. Sed vestibulum libero eget odio tempus finibus. Vestibulum nec porttitor ipsum. Nullam posuere tortor et elit lacinia, ac elementum sem sollicitudin. Nam id tempus nisi, vel accumsan magna.",
-    "start": "18:30",
-    "end": "22:30",
-    "day":"thursday",
-    "current": false,
-    "url": "",
-    "cast": [
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
-        "twitter": "harleysarmory",
-        "twitch": "harleysarmory",
-        "image": ""
-      },
-      {
-        "name": "Sam Rawls",
-        "bio": "Sam is a Cosplayer and Variety Streamer.",
         "twitter": "harleysarmory",
         "twitch": "harleysarmory",
         "image": ""
