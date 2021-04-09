@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 28 Days: A Work in Progress
+title: "28 Days: A Work in Progress"
 ---
 
 # 28 Days
