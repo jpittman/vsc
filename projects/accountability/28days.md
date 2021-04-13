@@ -7,8 +7,6 @@ title: "28 Days: A Work in Progress"
 
 These are the links appropriate to the 28 days project for February 2021.
 
-***Note: Due to some limitations with carrd.co, I'm now hosting the information directly on my site. The links and info from the older carrd.co site are currently being migrated over. See the change log at the bottom of this page for more details.***
-
 #### 28 Days Playlist
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8HiytcIQ7lf5fj4sCw-FfQrx4F_DXS-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -78,7 +76,7 @@ Due to circumstances, the content for this day had to be moved to the next day. 
 
 We took a look aback on the 28 days and the topics we brought forward. Check out the links in the previous days for more details.
 
-### Day 28 - Where We're going
+### Day 28 - Where We're Going
 
 ## Change Log
 
