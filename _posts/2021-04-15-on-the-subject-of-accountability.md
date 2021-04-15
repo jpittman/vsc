@@ -31,4 +31,6 @@ So that's what I'm doing.
 
 In February of 2021, I did the [28 Days](/projects/accountability/28days.html) project. The goal was to educate myself and acknowledge the issues that have become important to me. I shared what I learned with others by streaming the information in the form of slides on Twitch. That effort has led me to do a lot of writing about my experiences in trying to figure this out. The [Accountability](/projects/accountability/accountability.html) project is the next phase of this process. It's a way to track the things I'm doing so that I know where I've been in this process.
 
+I'm going to make mistakes along the way. I already have and I expect to make many more. It's my hope that others will help me see those errors and let me know so that I can address them. I can't do it alone.
+
 It’s time to get back to work. I hope you’ll join me.
