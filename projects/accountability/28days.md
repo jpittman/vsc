@@ -13,6 +13,37 @@ These are the links appropriate to the 28 days project for February 2021.
 
  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PL8HiytcIQ7lf5fj4sCw-FfQrx4F_DXS-i" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Day 1
+
+### Day 2 - Games and Online Harassment Hotline
+
+ - [Games and Online Harassment Hotline](https://gameshotline.org/)
+ - You can also send the text SUPPORT to 23368 from anywhere in the USA. They are active and replying from 4PM-7PM PT, Monday-Friday.
+ - [To Donate](https://gameshotline.org/donate/)
+
+### Day 3 - Black Lives Matter
+
+ - [Black Lives Matter](https://blacklivesmatter.com)
+ - [#blacklivesmatter](https://blacklivesmatters.carrd.co/)
+ - [To Donate](https://secure.actblue.com/donate/ms_blm_homepage_2019)
+
+### Day 4 - White Privilege
+
+ - [What Is White Privilege?](https://www.learningforjustice.org/magazine/fall-2018/what-is-white-privilege-really)
+ - [Learning For Justice](https://www.learningforjustice.org)
+ - [To Donate](https://donate.splcenter.org/)
+
+### Day 5 - The X Card
+
+ - [The X Card](http://tinyurl.com/x-card-rpg)
+ - [TTRPG Safety Toolkit](http://bit.ly/ttrpgsafetytoolkit)
+
+### Day 6 -
+
+### Day 7 -
+
+### Day 8 -
+
 ### Day 16 - Accessibility
 
 - [Wikipedia Page for Accessibility](https://en.wikipedia.org/wiki/Accessibility) - a thorough introduction to accessibility.
@@ -81,3 +112,4 @@ We took a look aback on the 28 days and the topics we brought forward. Check out
 ## Change Log
 
 04/14/2021 - Existing page as it existed toward the end of the 28 days project in February.
+04/15/2021 - Moving the first 8 days of content over from the Carrd site. This should close that out completely. Next up, recreating day 9 through 15 from notes.
