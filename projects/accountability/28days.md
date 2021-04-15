@@ -54,19 +54,19 @@ These are the links appropriate to the 28 days project for February 2021.
  - [The Support Flower Image](https://the-act-apart.itch.io/the-support-flower)
  - [Safety and Calibration Cards](https://dtwelves.com/gaming/safety-calibration-cards/)
 
-### Day 9
+### Day 9 - Intersectionality
 
-### Day 10
+### Day 10 - Lines and Veils
 
-### Day 11
+### Day 11 - Toxic Masculinity
 
-### Day 12
+### Day 12 - Compassion
 
-### Day 13
+### Day 13 - Script Change RPG Toolbox
 
-### Day 14
+### Day 14 - Self Care
 
-### Day 15
+### Day 15 - Luxton Technique
 
 ### Day 16 - Accessibility
 
