@@ -38,11 +38,35 @@ These are the links appropriate to the 28 days project for February 2021.
  - [The X Card](http://tinyurl.com/x-card-rpg)
  - [TTRPG Safety Toolkit](http://bit.ly/ttrpgsafetytoolkit)
 
-### Day 6 -
+### Day 6 - Take This
 
-### Day 7 -
+ - [Take This](https://www.takethis.org/)
+ - [To Donate](https://www.takethis.org/get-involved/donate/)
 
-### Day 8 -
+### Day 7 - Diversity & Inclusion
+
+ - [So You Want To Talk About...](https://www.instagram.com/soyouwanttotalkabout/)
+ - [Dr. Rachel Levine](https://www.vox.com/identities/22242177/rachel-levine-appointment-biden-hhs-transgender)
+ - [Diversity, Inclusion & Equity](https://generalassemb.ly/blog/diversity-inclusion-equity-differences-in-meaning/)
+
+### Day 8 - The Support Flower
+
+ - [The Support Flower Image](https://the-act-apart.itch.io/the-support-flower)
+ - [Safety and Calibration Cards](https://dtwelves.com/gaming/safety-calibration-cards/)
+
+### Day 9
+
+### Day 10
+
+### Day 11
+
+### Day 12
+
+### Day 13
+
+### Day 14
+
+### Day 15
 
 ### Day 16 - Accessibility
 
@@ -109,7 +133,9 @@ Due to circumstances, the content for this day had to be moved to the next day. 
 
 We took a look aback on the 28 days and the topics we brought forward. Check out the links in the previous days for more details.
 
+### Day 28
+
 ## Change Log
 
-04/14/2021 - Existing page as it existed toward the end of the 28 days project in February.
-04/15/2021 - Moving the first 8 days of content over from the Carrd site. This should close that out completely. Next up, recreating day 9 through 15 from notes.
+- 04/14/2021 - Existing page as it existed toward the end of the 28 days project in February.
+- 04/15/2021 - Moving the first 8 days of content over from the Carrd site. This should close that out completely. Next up, recreating day 9 through 15 from notes.
