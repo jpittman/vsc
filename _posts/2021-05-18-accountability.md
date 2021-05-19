@@ -19,7 +19,7 @@ That past experience was not publically acknowledged until it was addressed on J
 
 This situation was handled poorly at the time that it happened. When I did come to finally understand how I had hurt Lauren, I did my best to address my actions. Unable to resolve it directly with her, I worked to minimize any future trauma by disengaging from the situation. I made changes to the way I run games at the table and on stream. I thought that I had done enough.
 
-I now understand that I should have publically apoligized then, regardless of the resulting response. I chose not to address it publically because I wanted not to cause her any further harm. However, I felt the weight of the guilt from the unresolved situation and it had an impact. My apoligy in February 2019 was one of the results of that experience.
+I now understand that I should have publically apoligized then, regardless of the resulting response. I chose not to address it publically because I wanted not to cause her any further harm. However, I felt the weight of the guilt from the unresolved situation and it had an impact. My apology in February 2019 was one of the results of that experience.
 
 When she finally spoke up publically, I again understood what I needed to do. I took action to acknowledge it first privately with all of my collaborators at the time, stepped away from the majority of my commitments and then addressed it publically with a formal apology:
 
